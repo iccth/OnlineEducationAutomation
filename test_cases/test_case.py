@@ -1,5 +1,4 @@
 # 测试用例
-import re
 import unittest
 from time import sleep
 

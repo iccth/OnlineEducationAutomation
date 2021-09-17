@@ -1,0 +1,9 @@
+.idea
+
+/__pychche__/
+
+.pyteset_cache
+
+/latest_logs
+
+/venv/
