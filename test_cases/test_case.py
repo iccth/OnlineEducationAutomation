@@ -8,6 +8,7 @@ from ddt import ddt, file_data, data
 from page_object.course_manage.course_page import CoursePage
 from page_object.login_page import LoginPage
 
+
 @ddt
 class TestCase(unittest.TestCase):
     @classmethod
